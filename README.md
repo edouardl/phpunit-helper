@@ -1,4 +1,4 @@
-#PHPUnit helper
+# PHPUnit helper
 ## What for ?
 The idea of this script is to provide some helper functions to help, extend, simplify and accelerate usage of PHPUnit.
 I created and used a similar helper in professional environment and I'm definitely convicted by the help that it provide. 
